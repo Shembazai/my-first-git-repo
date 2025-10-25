@@ -1,1 +1,9 @@
-__pycache__/\n*.log\n*.tmp
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+.env
+.vscode/
+.idea/
+.DS_Store
